@@ -106,14 +106,19 @@ Revenant uses [Static Skill Leveling](https://www.nexusmods.com/skyrimspecialedi
 
 - [End Times](https://www.nexusmods.com/skyrimspecialedition/mods/39201) gives the player 365 days to save the world before Alduin consumes it.
 
-  > 365 days is way longer than some would expect, you're not in particular hurry to complete the main quest
+  > 365 days is way longer than some would expect, you're not in a particular hurry to complete the main quest
 
 - First few quests of the main story are skipped. The main quest starts With Way of the Voice after you kill your first dragon. Dragon Rising quest doesn't exist
   - Dragons start spawning at word walls after level 2 and rest of the world after level 20.
+
 - Rest of the main quest after Way of the Voice is handled by [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704)
 - [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704) is also used for Companions, College of Winterhold, Dawnguard and Dragonborn questlines.
 
   > You **absolutely should** read this modpage as that will save you from a lot of confusion with several questlines.
+
+- [Cult of the World Eater](https://www.nexusmods.com/skyrimspecialedition/mods/83274) makes dragon priests buff Alduin.
+
+   > After Paarthurnax tells you that you need to find an Elder Scroll, Esbern will send you a note which gives quest markers for all Dragon Priests you must defead in order to remove the buffs Alduin receives from them.
 
 - [The Choice is Yours](https://www.nexusmods.com/skyrimspecialedition/mods/3850) gives you the freedom to reject quests you may not want to take at the time.
 - [Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061) and [Destroy the Thieves Guild](https://www.nexusmods.com/skyrimspecialedition/mods/43244) add ways to obtain unique rewards from Dark Brotherhood and Thieves Guild questlines without joining the factions.
