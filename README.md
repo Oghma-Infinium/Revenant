@@ -167,7 +167,7 @@ Once you have completed pre-installation, follow the steps below to install Wabb
 
 #### Downloading and Installing Revenant
 
-~~Downloading and installing Revenant can take a while depending on your internet connection, PC specs, and if you have Nexus Premium.
+Downloading and installing Revenant can take a while depending on your internet connection, PC specs, and if you have Nexus Premium.
 
 To install Revenant, complete the following steps:
 
