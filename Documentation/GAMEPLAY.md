@@ -91,7 +91,7 @@ Revenant uses [Static Skill Leveling](https://www.nexusmods.com/skyrimspecialedi
 
 ### Crime
 
-- [Crime Bounty Decay SE](https://www.nexusmods.com/skyrimspecialedition/mods/25457) makes bounties slowly decay by default. You can speed that up with some perks.  
+- [Crime Bounty Decay SE](https://www.nexusmods.com/skyrimspecialedition/mods/25457) makes bounties slowly decay.  
 - [Book of Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/76086) adds a mask mechanic for evading bounties. When wearing a mask, the bounty accumulates for the mask only. When not wearing the mask, your bounty is not recognized by guards.  
   > You can craft a mask at tanning rack.
 
