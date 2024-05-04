@@ -49,7 +49,7 @@
 
 ## Introduction
 
-Revenant is a modlist for Skyrim Special Edition [Requiem 3Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44044) total game overhaul, with modern action combat, including Attack - MCO, SCAR and TKdodge RE. Features light survival mechanics with Starfrost, Campsire and Simple Hunting Overhaul. 
+Revenant is a modlist for Skyrim Special Edition [Requiem 3Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44044), a total game overhaul, combined with modern action combat, including Attack - MCO, SCAR and TKdodge RE. Features light survival mechanics with Starfrost, Campsite and Simple Hunting Overhaul. 
 
 If you're curious about the specific mods in the list, the full modlist can be viewed [here]().
 
