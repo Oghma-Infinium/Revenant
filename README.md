@@ -7,7 +7,7 @@
   <a href="https://github.com/Oghma-Infinium/Revenant/blob/main/CHANGELOG.md">Changelog</a> |
   <a href="https://github.com/Oghma-Infinium/Revenant/blob/main/Documentation/FAQ.md">FAQ</a> |
   <a href="https://github.com/Oghma-Infinium/Revenant/blob/main/Documentation/CONFIG.md">Config</a> |
-  <a href="https://loadorderlibrary.com/lists/Revenant">Modlist</a> ]
+  <a href="">Modlist</a> ]
 </p>
 
 ---
