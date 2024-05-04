@@ -331,7 +331,7 @@ If you still have an issue with the list after reading the above docs, feel free
 
 - *YOU* for reading this.
 - [aljo](https://ko-fi.com/aljoxo), [Bingus](https://ko-fi.com/beangas), Fate and the rest of the Waking Dreams server for helping me with the list.
-- Ryge, Mitch and Foves for testing and feedback.
+- Ryge, Mitch and Fovez for testing and feedback.
 - [ElminsterAU](https://www.patreon.com/ElminsterAU) and the xEdit team for SSEEdit.
 - Noggog for Mutagen and Synthesis.
 - Halgari and the WJ Team for this amazing platform.
