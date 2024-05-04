@@ -7,7 +7,7 @@
   <a href="https://github.com/Oghma-Infinium/Revenant/blob/main/CHANGELOG.md">Changelog</a> |
   <a href="https://github.com/Oghma-Infinium/Revenant/blob/main/Documentation/FAQ.md">FAQ</a> |
   <a href="https://github.com/Oghma-Infinium/Revenant/blob/main/Documentation/CONFIG.md">Config</a> |
-  <a href="">Modlist</a> ]
+  <a href="https://loadorderlibrary.com/lists/revenant">Modlist</a> ]
 </p>
 
 ---
@@ -51,7 +51,7 @@
 
 Revenant is a modlist for Skyrim Special Edition [Requiem 3Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44044), a total game overhaul, combined with modern action combat, including Attack - MCO, SCAR and TKdodge RE. Features light survival mechanics with Starfrost, Campsite and Simple Hunting Overhaul. 
 
-If you're curious about the specific mods in the list, the full modlist can be viewed [here]().
+If you're curious about the specific mods in the list, the full modlist can be viewed [here](https://loadorderlibrary.com/lists/revenant).
 
 **NOTE:** Making ***ANY*** changes, — including editing INIs or MCMs —to the modlist, adding mods, removing mods, using console commands (unless adviced by staff) counts as modification and thus voids official support. Only changes explicitly stated in the [Config Doc](https://github.com/Oghma-Infinium/Revenant/blob/main/Documentation/CONFIG.md) are supported. There is separate channel in Discord for discussing modifications to Revenant.
 
@@ -79,12 +79,11 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 | **OS**    | Windows 10/11 | Windows 10 |
 
 Downloads: ~??? GB  
-Install: ~??? GB  
-Temp Files (OS drive): ~??? GB  
-Temp Files (install drive): ~??? GB  
+Install: ~337 GB  
+Temp Files (OS drive): ~40 GB  
 **TOTAL:** ~ ??? GB  
 
- > Wabbajack requires around ??? GB of space for temporary and working files during the installation. The total size after installation is done is closer to ??? GB.
+ > Wabbajack requires around 40 GB of space for temporary and working files during the installation. The total size after installation is done is closer to ??? GB.
 
 ## Installation
 
