@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/Oghma-Infinium/Revenant/main/images/Revenant%20Banner%20PNG.png)
 
 <p align="center">
-  [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/95364">Nexus</a> |
+  [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/118485">Nexus</a> |
   <a href="https://github.com/Oghma-Infinium/Revenant/blob/main/README.md">Installation</a> |
   <a href="https://github.com/Oghma-Infinium/Revenant/blob/main/Documentation/GAMEPLAY.md">Gameplay Guide<a/> |
   <a href="https://github.com/Oghma-Infinium/Revenant/blob/main/CHANGELOG.md">Changelog</a> |
