@@ -286,8 +286,6 @@ If you use Windows Defender, it is advised that you set up an exception for the 
 **NOTE: Some keybinds on both maps are outdated for the current version. These will be updated eventually.**
 ## Playing the List
 
-**Before you start playing the game, read over the [Configuration page](https://github.com/Oghma-Infinium/Revenant/blob/main/Documentation/CONFIG.md), the [FAQ page](https://github.com/Oghma-Infinium/Revenant/blob/main/Documentation/FAQ.md) and the [Gameplay Guide](https://github.com/Oghma-Infinium/Revenant/blob/main/Documentation/GAMEPLAY.md) for the list.**
-
 ### Starting the Game
 
   Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it.
@@ -321,9 +319,7 @@ Simply delete the Revenant folder. Congratulations, you have uninstalled Revenan
 
 **PLEASE DO NOT DM OR PING  ME ON DISCORD! (INCLUDING REPLY PINGS)**
 
-You are **required** to read the [FAQ](https://github.com/Oghma-Infinium/Revenant/blob/main/Documentation/FAQ.md), [Config](https://github.com/Oghma-Infinium/Revenant/blob/main/Documentation/CONFIG.md), [Gameplay Guide](https://github.com/Oghma-Infinium/Revenant/blob/main/Documentation/GAMEPLAY.md) and [Trello](https://trello.com/b/khix4egd/Revenant-bug-reports) before seeking support.
-
-If you still have an issue with the list after reading the above docs, feel free to join the [Waking Dreams](https://discord.gg/wakingdreams) Discord server for support. **Only latest version of the list is supported.** Please be mindful of pings when asking for support and note that modified installations are **not supported**, including editing INIs or MCMs —to the modlist, adding mods, removing mods, using console commands (unless adviced by staff) counts as modification and thus voids official support. Only changes explicitly stated in the [Config Doc](https://github.com/Oghma-Infinium/Revenant/blob/main/Documentation/CONFIG.md) are supported. There is separate channel in Discord for discussing modifications to Revenant.
+If you still have an issue with the list after reading the above docs, feel free to join the [Waking Dreams](https://discord.gg/wakingdreams) Discord server for support. **Only latest version of the list is supported.** Please be mindful of pings when asking for support and note that modified installations are **not supported**, including editing INIs or MCMs —to the modlist, adding mods, removing mods, using console commands (unless adviced by staff) counts as modification and thus voids official support. There is separate channel in Discord for discussing modifications to Revenant.
 
 **If you encounter issues with an item/NPC/object or similar, please click the item in console and take a screenshot when submitting a bug report. Posting a screenshot of the issue without a console click will most likely be overlooked.**
 
