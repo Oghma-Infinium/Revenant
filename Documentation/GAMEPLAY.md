@@ -25,7 +25,7 @@ Before reading this section, I suggest looking over the [keybinds](https://githu
 
 - [Requiem](https://www.nexusmods.com/skyrimspecialedition/mods/60888) and [3Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44044) define the entire gameplay of the list
 
-   > It is highly recommended to read [3Tweaks documentation](https://sites.google.com/view/3bftweaksrequiem/home) is it explains many of the core gameplay systems.
+   > It is highly recommended to read [3Tweaks documentation](https://sites.google.com/view/3bftweaksrequiem/home) as it explains many of the core gameplay systems.
 
     > However, the Insight potion leveling system **IS NOT USED** in revenant. Leveling is handled by [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) and [Static Skill Leveling](https://www.nexusmods.com/skyrimspecialedition/mods/89940)
 
