@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Oghma-Infinium/Revenant/main/images/Revenant%20Banner%20PNG.png)
+![](https://raw.githubusercontent.com/Oghma-Infinium/Revenant/main/images/banner.png)
 
 <p align="center">
   [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/118485">Nexus</a> |
