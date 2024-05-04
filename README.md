@@ -17,6 +17,7 @@
 **⚠ WARNINGS ⚠:**
 - **You must update Skyrim Special Edition to latest version on Steam to install this list. DO NOT DOWNGRADE YOUR GAME TO INSTALL THIS LIST!**
 - **Note that this list is currently in *BETA*. Only play if you're willing to participate in bug reports and feedback!**
+- **This readme is still WIP, some links don't work yet.**
 - **Modifying the list in any way voids offical support for the modlist.**
 
 
