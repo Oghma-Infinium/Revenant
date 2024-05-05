@@ -78,12 +78,12 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 | **Storage**    | SATA/NVME SSD | Samsung 970 EVO Plus |
 | **OS**    | Windows 10/11 | Windows 10 |
 
-Downloads: ~??? GB  
+Downloads: ~300 GB  
 Install: ~337 GB  
 Temp Files (OS drive): ~40 GB  
-**TOTAL:** ~ ??? GB  
+**TOTAL:** ~677 GB  
 
- > Wabbajack requires around 40 GB of space for temporary and working files during the installation. The total size after installation is done is closer to ??? GB.
+ > Wabbajack requires around 40 GB of space for temporary and working files during the installation. The total size after installation is done is closer to 637 GB.
 
 ## Installation
 
