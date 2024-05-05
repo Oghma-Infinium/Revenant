@@ -50,6 +50,8 @@
 
 Revenant is a modlist for Skyrim Special Edition, based on [Requiem 3Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44044), a total game overhaul, combined with modern action combat, including Attack - MCO, SCAR and TKdodge RE. Features light survival mechanics with Starfrost, Campsite and Simple Hunting Overhaul. 
 
+Beware that this list is very difficult. Only enter if you're ready for a serious challenge.
+
 If you're curious about the specific mods in the list, the full modlist can be viewed [here](https://loadorderlibrary.com/lists/revenant).
 
 **NOTE:** Making ***ANY*** changes, — including editing INIs or MCMs —to the modlist, adding mods, removing mods, using console commands (unless adviced by staff) counts as modification and thus voids official support. Only changes explicitly stated in the [Config Doc](https://github.com/Oghma-Infinium/Revenant/blob/main/Documentation/CONFIG.md) are supported. There is separate channel in Discord for discussing modifications to Revenant.
