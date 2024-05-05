@@ -29,7 +29,6 @@
   - [Q: How do I open the OAR, IED and dmenu?](#q-how-do-i-open-the-oar-ied-and-dmenu)
   - [Q: Why can't I attack with my left hand weapon?](#q-why-cant-i-attack-with-my-left-hand-weapon)
   - [Q: How do I block with dual wield or spellsword?](#q-how-do-i-block-with-dual-wield-or-spellsword)
-  - [Q: Any video showcase of the list?](#q-any-video-showcase-of-the-list)
   - [Q: How can I access features of Elden Rim mod?](#q-how-can-i-access-features-of-elden-rim-mod)
   - [Q: My character's face suddenly became much darker, causing a neck seam. What do I do?](#q-my-characters-face-suddenly-became-much-darker-causing-a-neck-seam-what-do-i-do)
 
