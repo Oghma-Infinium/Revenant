@@ -99,10 +99,6 @@ If none of these suggestions help with your issue, feel free to reach out to us 
 
 > A: With dual wield you block just like you normally would (left bumper or right click). There is no spellsword block. Instead, consider casting spells hands-free with Oblivion casting. (Read [Gameplay Guide]( https://github.com/Oghma-Infinium/Revenant/blob/main/Documentation/GAMEPLAY.md))
 
-## Q: Any video showcase of the list?
-
-> A: None so far
-
 ## Q: How can I access features of Elden Rim mod?
 
 > A: You don't. Elden Rim is not used in the list, assets and some logic from the plugin are used for other purposes. Don't refer to anything from the elden rim modpage, the mod doesn't "exist" in the list.
