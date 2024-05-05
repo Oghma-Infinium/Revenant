@@ -75,7 +75,7 @@ Revenant uses [Static Skill Leveling](https://www.nexusmods.com/skyrimspecialedi
 
 - [MCO - Modern Combat Overhaul](https://modding-guild.com/mod/attack-mcodxp/) is the core mod for melee combat. It overhauls melee attacks to use attack commitment and combo chaining, similar to other modern action games like Elden Ring and Assassin's Creed Valhalla.
 
-- Ash of War, a special attack for all weapon types is available in powers menu.
+- Ash of War, a special attack for all melee weapon types is available in powers menu.
 
   > Requires the perk Ash of War from Dexterity tree to unlock.
 
