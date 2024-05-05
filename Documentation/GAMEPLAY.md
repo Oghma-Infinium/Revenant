@@ -109,7 +109,7 @@ Revenant uses [Static Skill Leveling](https://www.nexusmods.com/skyrimspecialedi
   > 365 days is way longer than some would expect, you're not in a particular hurry to complete the main quest
 
 - First few quests of the main story are skipped. The main quest starts With Way of the Voice after you kill your first dragon. Dragon Rising quest doesn't exist
-  - Dragons start spawning at word walls after level 2 and rest of the world after level 20.
+  > Dragons start spawning at word walls after level 2 and rest of the world after level 20.
 
 - Rest of the main quest after Way of the Voice is handled by [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704)
 - [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704) is also used for Companions, College of Winterhold, Dawnguard and Dragonborn questlines.
