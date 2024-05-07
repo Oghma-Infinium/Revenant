@@ -173,19 +173,21 @@ To install Revenant, complete the following steps:
 
 1. Download Revenant from the link in [Waking Dreams](https://discord.gg/wakingdreams) Discord server.
 
-2. Open Wabbajack App and press `Install From Disk`.
+2. Unpack the file you just downloaded.
 
-3. Press the three dots next to `Target Modlist` and choose the `Revenant.wabbajack` file you just downloaded.
+3. Open Wabbajack App and press `Install From Disk`.
 
-4. Set the `Modlist Installation Location` to a folder such as `C:\Revenant`. 
+4. Press the three dots next to `Target Modlist` and choose the `Revenant.wabbajack` file you just unpacked.
+
+5. Set the `Modlist Installation Location` to a folder such as `C:\Revenant`. 
    > **DO NOT** set the folder to Program Files, User protected folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder.
 
-5. The `Resource Download Location` line should fill out automatically after you set your `Modlist Installation Location`. 
+6. The `Resource Download Location` line should fill out automatically after you set your `Modlist Installation Location`. 
    > The `Resource Download Location` does not need to be on the same drive as your Modlist Installation Location. You can set this location to a folder on an HDD for the sake of saving space.
 
-6. Press the play arrow to begin the installation.
+7. Press the play arrow to begin the installation.
 
-7. If the installation is successful, then rejoice and move onto the [Post Installation](#post-installation) section. If the installation is unsuccessful, refer to the [Problematic Files](#problematic-files) section and tips below or check the [Contact](#contact) section for support.
+8. If the installation is successful, then rejoice and move onto the [Post Installation](#post-installation) section. If the installation is unsuccessful, refer to the [Problematic Files](#problematic-files) section and tips below or check the [Contact](#contact) section for support.
 
 ---
 
