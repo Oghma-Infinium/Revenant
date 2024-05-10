@@ -38,7 +38,14 @@ Added Potion of Absolution, purchauseable from priests, which resets murder, sto
 <Details>  
 
 ### Added
-  - 
+  - Nordic Ruins Tower Rework
+  - Requiem - Seasonal Plant Fixes
+  - Embers XD - Patch - Survival Mode
+  - Kreate + DALC Fix Preset
+    - I'm still 50/50 on this. More testing is needed if the performance impact from this is significant.
+    - What this mod does is improve lighting/shadow accuracy somewhat.
+  - Styyx Requiem Fixes and Tweaks
+    - Fixes couple bugs Requiem had with controllers
 
 </Details>
 
