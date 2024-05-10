@@ -23,11 +23,15 @@
 
 **This update is save safe. Ignore the popup about missing plugins.**
 
+Bugfixes, balance tweaks, mod updates and minor additions.
+
 Tweaked xp gains from various sources. Mostly buffs to xp gains.
 
 Fixed level caps for skills not working. (you will **not** lose progress if your skill level is above the current cap on existing saves)
 
 Made MCO draugr (Awoken Draugr) properly use Requiem draugr resistances & weaknesses. Attempted to tweak their stats closer to basic draugr, but more testing is needed.
+
+Added Potion of Absolution, purchauseable from priests, which resets murder, stolen items and lifetime bounty stats. Useful only when you've been locked out of using a blessing.
 
  - Refer to [Trello](https://trello.com/b/khix4egd/Revenant-bug-reports) to track which are fixed and which still persist.
 
