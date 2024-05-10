@@ -33,7 +33,7 @@ Made MCO draugr (Awoken Draugr) properly use Requiem draugr resistances & weakne
 
 Added Potion of Absolution, purchauseable from priests, which resets murder, stolen items and lifetime bounty stats. Useful only when you've been locked out of using a blessing.
 
- - Refer to [Trello](https://trello.com/b/khix4egd/Revenant-bug-reports) to track which are fixed and which still persist.
+ - Refer to [Trello](https://trello.com/b/DneP4c8p/revenant) to track which are fixed and which still persist.
 
 <Details>  
 
@@ -60,7 +60,7 @@ Removed ability to do melee attacks while in first person, to remove ability to 
 
 Removed the ability to toggle off survival mode in settings as this list is intended to be played with survival mode and I feel like giving an option to turn it off may bait people to disable it at earliest inconvenience.
 
- - Refer to [Trello](https://trello.com/b/khix4egd/Revenant-bug-reports) to track which are fixed and which still persist.
+ - Refer to [Trello](https://trello.com/b/DneP4c8p/revenant) to track which are fixed and which still persist.
 
 <Details>  
 
