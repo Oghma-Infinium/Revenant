@@ -25,7 +25,7 @@
 
 Tweaked xp gains from various sources. Mostly buffs to xp gains.
 
-Fixed level caps on skills not working. (you will **not** lose progress if your skill level is above the current cap on existing saves)
+Fixed level caps for skills not working. (you will **not** lose progress if your skill level is above the current cap on existing saves)
 
 Made MCO draugr (Awoken Draugr) properly use Requiem draugr resistances & weaknesses. Attempted to tweak their stats closer to basic draugr, but more testing is needed.
 
