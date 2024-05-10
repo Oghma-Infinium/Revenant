@@ -12,7 +12,27 @@
 ---
 
 # Changelog
+- [0.2.3](#023)
 - [0.2.2](#022)
+
+</Details>
+
+## 0.2.3
+
+### Info
+
+**This update is save safe. Ignore the popup about missing plugins.**
+
+Bugfixes, balance tweaks, mod updates and minor additions.
+
+Made MCO draugr (Awoken Draugr) properly use Requiem draugr resistances & weaknesses. Attempted to tweak their stats closer to basic draugr, but more testing is needed.
+
+ - Refer to [Trello](https://trello.com/b/khix4egd/Revenant-bug-reports) to track which are fixed and which still persist.
+
+<Details>  
+
+### Added
+  - 
 
 </Details>
 
