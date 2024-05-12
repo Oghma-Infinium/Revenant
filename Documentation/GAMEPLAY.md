@@ -123,11 +123,20 @@ Revenant uses [Static Skill Leveling](https://www.nexusmods.com/skyrimspecialedi
 - [The Choice is Yours](https://www.nexusmods.com/skyrimspecialedition/mods/3850) gives you the freedom to reject quests you may not want to take at the time.
 - [Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061) and [Destroy the Thieves Guild](https://www.nexusmods.com/skyrimspecialedition/mods/43244) add ways to obtain unique rewards from Dark Brotherhood and Thieves Guild questlines without joining the factions.
 
+### College of Winterhold
+
+Added a separate section for this to clear up confusion.
+
+- You can enter the College area without joining it.
+- To start the College lessons added by [College of Winterhold - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/66666), talk to Mirabelle Ervine.
+- After completing or skipping the lessons, ask Tolfdir "Do you have any more lessons planned for us?", which will start the vanilla Saarthal quest.
+- To start the main vanilla College questline immediately without doing the lessons, go ask Tolfdir about College needing help. (this refers to a note that can be found in Dragonsreach)
+  > This dialogue option will prevent you from taking the lessons and skips all of them if you have already start them. **Do not pick this if you want to do the lessons!**
+
 ### Other Vanilla Quest Expansions
 
 - [Bring Meeko To Lod](https://www.nexusmods.com/skyrimspecialedition/mods/25246)
 - [Search and Seizure - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/67066)
-- [College of Winterhold - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/66666)
 - [Caught Red Handed - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/65708)
 - [The Heart of Dibella - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/94863)
 - [Deceive Degaine](https://www.nexusmods.com/skyrimspecialedition/mods/51863)
