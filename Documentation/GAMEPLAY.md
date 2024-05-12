@@ -132,6 +132,9 @@ Added a separate section for this to clear up confusion.
 - After completing or skipping the lessons, ask Tolfdir "Do you have any more lessons planned for us?", which will start the vanilla Saarthal quest.
 - To start the main vanilla College questline immediately without doing the lessons, go ask Tolfdir about College needing help. (this refers to a note that can be found in Dragonsreach)
   > This dialogue option will prevent you from taking the lessons and skips all of them if you have already start them. **Do not pick this if you want to do the lessons!**
+  
+  > This is essentially the College handyman route for those characters who don't wish to engage in magic but still want to complete the quest.
+- Various other changes made to the questline are explained in [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704) mod page.
 
 ### Other Vanilla Quest Expansions
 
