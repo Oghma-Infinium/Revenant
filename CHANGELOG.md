@@ -12,8 +12,29 @@
 ---
 
 # Changelog
+- [0.2.4](#024)
 - [0.2.3](#023)
 - [0.2.2](#022)
+
+</Details>
+
+## 0.2.4
+
+### Info
+
+**This update is save safe. Ignore the popup about missing plugins.**
+
+Lots of bugfixes, balance tweaks, mod updates and minor additions.
+
+ - Refer to [Trello](https://trello.com/b/DneP4c8p/revenant) to track which are fixed and which still persist.
+
+<Details>  
+
+### Added
+  - Oread - Spriggan Sounds SFX Rework
+  - Magic Casting Utilities
+    - Yeah this was a requirement to 3tweaks which I was missing... oops
+  - Carriage Drivers SE by Xtudo
 
 </Details>
 
