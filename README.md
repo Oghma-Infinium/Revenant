@@ -175,10 +175,12 @@ To install Revenant, complete the following steps:
 2. Make sure `Show Unofficial` is checked on top-right.
 3. Press the download button on Revenant and wait for it to download.
 4. Set the installation folder to be somewhere like C:\Games\Revenant. **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**
-  > The download location does not need to be on a SSD, but it makes installing faster.
-5. Press the play button to begin.
-6. Turn on your favorite show or a nice long video essay Wabbajack does its thing. Alternatively read through this readme again.
-7. If the installation is successful, then rejoice and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below or join the [discord server](https://discord.gg/WakingDreams) for support.
+
+     > The download location does not need to be on a SSD, but it makes installing faster.
+
+6. Press the play button to begin.
+7. Turn on your favorite show or a nice long video essay Wabbajack does its thing. Alternatively read through this readme again.
+8. If the installation is successful, then rejoice and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below or join the [discord server](https://discord.gg/WakingDreams) for support.
 
 ---
 
