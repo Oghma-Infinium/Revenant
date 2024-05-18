@@ -171,23 +171,14 @@ Downloading and installing Revenant can take a while depending on your internet 
 
 To install Revenant, complete the following steps:
 
-1. Download Revenant from the link in [Waking Dreams](https://discord.gg/wakingdreams) Discord server.
-
-2. Unpack the file you just downloaded.
-
-3. Open Wabbajack App and press `Install From Disk`.
-
-4. Press the three dots next to `Target Modlist` and choose the `Revenant.wabbajack` file you just unpacked.
-
-5. Set the `Modlist Installation Location` to a folder such as `C:\Revenant`. 
-   > **DO NOT** set the folder to Program Files, User protected folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder.
-
-6. The `Resource Download Location` line should fill out automatically after you set your `Modlist Installation Location`. 
-   > The `Resource Download Location` does not need to be on the same drive as your Modlist Installation Location. You can set this location to a folder on an HDD for the sake of saving space.
-
-7. Press the play arrow to begin the installation.
-
-8. If the installation is successful, then rejoice and move onto the [Post Installation](#post-installation) section. If the installation is unsuccessful, refer to the [Problematic Files](#problematic-files) section and tips below or check the [Contact](#contact) section for support.
+1. Open Wabbajack and click `Browse Modlists`.
+2. Click `Show Unofficial` button on top right.
+3. Press the download button on Revenant and wait for it to download.
+4. Set the installation folder to be somewhere like C:\Games\Revenant. **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**
+  > The download location does not need to be on a SSD, but it makes installing faster.
+5. Press the play button to begin.
+6. Turn on your favorite show or a nice long video essay Wabbajack does its thing. Alternatively read through this readme again.
+7. If the installation is successful, then rejoice and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below or join the [discord server](https://discord.gg/WakingDreams) for support.
 
 ---
 
