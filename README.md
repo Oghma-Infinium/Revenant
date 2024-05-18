@@ -172,7 +172,7 @@ Downloading and installing Revenant can take a while depending on your internet 
 To install Revenant, complete the following steps:
 
 1. Open Wabbajack and click `Browse Modlists`.
-2. Click `Show Unofficial` button on top right.
+2. Make sure `Show Unofficial` is checked on top-right.
 3. Press the download button on Revenant and wait for it to download.
 4. Set the installation folder to be somewhere like C:\Games\Revenant. **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**
   > The download location does not need to be on a SSD, but it makes installing faster.
