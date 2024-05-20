@@ -329,4 +329,3 @@ If you still have an issue with the list after reading the above docs, feel free
 - [ElminsterAU](https://www.patreon.com/ElminsterAU) and the xEdit team for SSEEdit.
 - Noggog for Mutagen and Synthesis.
 - Halgari and the WJ Team for this amazing platform.
-- [Cosmofujia](https://www.patreon.com/fujiacosmo) for a significant amount of high quality Weapon Models.
