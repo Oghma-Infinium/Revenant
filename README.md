@@ -14,10 +14,10 @@
 
 **[Modlist Support](#contact)**
 
-**⚠ WARNINGS ⚠:**
-- **You must update Skyrim Special Edition to latest version on Steam to install this list. DO NOT DOWNGRADE YOUR GAME TO INSTALL THIS LIST!**
-- **Note that this list is currently in *BETA*. Only play if you're willing to participate in bug reports and feedback!**
-- **Modifying the list in any way voids official support for the modlist.**
+> [!IMPORTANT]  
+> - **You must update Skyrim Special Edition to latest version on Steam to install this list. DO NOT DOWNGRADE YOUR GAME TO INSTALL THIS LIST!**
+> - **Note that this list is currently in *BETA*. Only play if you're willing to participate in bug reports and feedback!**
+> - **Modifying the list in any way voids official support for the modlist.**
 
 
 # Contents
@@ -88,8 +88,8 @@ Temp Files (OS drive): ~40 GB
 
 ## Installation
 
-**⚠ WARNINGS ⚠:**
-- **You must update Skyrim Special Edition to latest version on Steam to install this list. DO NOT DOWNGRADE YOUR GAME TO INSTALL THIS LIST!**
+> [!WARNING]  
+> **You must update Skyrim Special Edition to latest version on Steam to install this list. DO NOT DOWNGRADE YOUR GAME TO INSTALL THIS LIST!**
 
 If you are updating the modlist, you can safely skip to the [updating section](#updating-the-modlist).
 
@@ -167,6 +167,10 @@ Once you have completed pre-installation, follow the steps below to install Wabb
 
 #### Downloading and Installing Revenant
 
+> [!CAUTION]
+> Please do **NOT** try to install this list with pirated copy of Skyrim Special Edition. The install will fail and even if you somehow trick it, SKSE doesn't work with the cracked exes and you'll like waste my time as well as yours when you'll be inevitably asking for support on why your game is crashing/freezing.  
+> **Buy the game.**
+
 Downloading and installing Revenant can take a while depending on your internet connection, PC specs, and if you have Nexus Premium.
 
 To install Revenant, complete the following steps:
@@ -186,9 +190,10 @@ To install Revenant, complete the following steps:
 
 #### Problematic Files
 
-Wabbajack can sometimes have trouble downloading mods hosted on sites other than Nexus. Because of this, many problematic files are listed below for your convienence. 
-
-You will need to **manually download** these files and place them in the `Resource Download Location` that is made in the [Downloading and Installing Revenant](#downloading-and-installing-Revenant) section.
+> [!NOTE]  
+> Wabbajack can sometimes have trouble downloading mods hosted on sites other than Nexus. Because of this, many problematic files are listed below for your convienence.
+> 
+> You will need to **manually download** these files and place them in the `Resource Download Location` that is made in the [Downloading and Installing Revenant](#downloading-and-installing-Revenant) section.  
 
 **Google Drive Links:**
 - [Elden Ring - Great Spear.7z](https://drive.google.com/file/d/19muJYVcS_CwVOsQ9bQL_wWsYRz5W7BZI/edit)
@@ -252,7 +257,8 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 Generally speaking, using solely Windows Defender as your antivirus is advised as it is a solid antivirus software that will have minimal interference with the game.
 
-Antivirus programs can be notorious for false flagging MO2's VFS (Virtual File Staging) as problematic, causing crashes or other issues. Antivirus programs like BitDefender, Norton, and Webroot are especially aggressive and you will very likely need to fully remove them from your PC in order to actually launch the game through MO2.
+> [!WARNING]  
+> Antivirus programs can be notorious for false flagging MO2's VFS (Virtual File Staging) as problematic, causing crashes or other issues. Antivirus programs like **Avast, BitDefender, Norton and Webroot** are especially aggressive and you will very likely need to **fully remove them from your PC** in order to actually launch the game through MO2.
 
 If you use Windows Defender, it is advised that you set up an exception for the modlist. To do this, follow these steps:
 
