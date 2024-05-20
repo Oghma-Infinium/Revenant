@@ -320,7 +320,7 @@ Simply delete the Revenant folder. Congratulations, you have uninstalled Revenan
 
 ## Contact
 
-**PLEASE DO NOT DM OR PING  ME ON DISCORD! (INCLUDING REPLY PINGS)**
+**PLEASE DO NOT DM OR PING  ME ON DISCORD!**
 
 
 > [!IMPORTANT]  
