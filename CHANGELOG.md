@@ -12,9 +12,54 @@
 ---
 
 # Changelog
+- [0.2.6](#026)
 - [0.2.4](#024)
 - [0.2.3](#023)
 - [0.2.2](#022)
+
+</Details>
+
+
+## 0.2.4
+
+### Info
+
+**This update is save safe. Ignore the popup about missing plugins.**
+
+- Added EdgeUI because I couldn't take Untarnished anymore
+- Added banking system
+- Priests can now heal you and cure diseases
+- Even more bandit camps and bandit patrols on roads
+- More wildlife for hunting and early level xp
+- Bug fixes and balance tweaks
+
+ - Refer to [Trello](https://trello.com/b/DneP4c8p/revenant) to track which are fixed and which still persist.
+
+<Details>  
+
+### Added
+  - EdgeUI
+  - Elden Ring Active Effects
+  - Simple Bandit Camps
+  - More Stuff 2 Kill
+  - More Wildlife in Falkreath Hold - Redux
+  - Bandit Encounters Redux
+  - Armored Draugr Corpses
+  - Sholves Bury Bodies
+  - No Need to Ask... Bounty is Served
+  - Welcome Back to the Bee and Barb
+  - Hide Quest Items in Container Menu
+  - Slip off Slopes
+  - Useful Scrolls - Drop to Cast
+  - Clearable Ruunvald
+  - Civil War Patrol Bounty Disabled
+  - Priests Can Cure Diseases
+  - Please Heal Me - Priests Can Heal
+  - Dragon Souls Heal You
+  - Simple Banking
+  - Andrealphus' Exploit Fixes
+  - Simplicity of Seeding
+  - ELAF Dig Treasures
 
 </Details>
 
