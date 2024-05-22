@@ -98,7 +98,7 @@ If you are updating the modlist, you can safely skip to the [updating section](#
 #### Prerequisites
 Prior to installing Revenant, please complete the following steps:
 
- 1. Install [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe) & [.Net Runtime 8.X.X desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/8.0).
+ 1. Install [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe) & [.Net Runtime 8.X.X desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.5-windows-x64-installer).
  2. Reinstall Skyrim into a location that is not Program Files. Locations such as `C:\Games` is a good location. If you only have one drive, look into LostDragonist's [SteamLibrary tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide).
  3. Disable the Steam Overlay: Right click on Skyrim SE in Steam and click on `Properties` > Untick the `Enable Steam Overlay while in-game` option
  4. Set your Skyrim language to English: Right click on your Skyrim in Steam > Click `Properties` > Click the drop down box next to `Language` > Set the language to English
