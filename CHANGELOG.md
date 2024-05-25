@@ -12,6 +12,7 @@
 ---
 
 # Changelog
+- [0.2.8](#028)
 - [0.2.6](#026)
 - [0.2.4](#024)
 - [0.2.3](#023)
@@ -20,7 +21,28 @@
 </Details>
 
 
-## 0.2.4
+## 0.2.8
+
+### Info
+
+**This update is save safe.**
+
+Swapped to using Crash Log Viewer for consistency with other lists hosted in the server. Use !crashlog command for more info.
+
+Generic maintenance update with lots of small bug fixes and mod updates.
+
+ - Refer to [Trello](https://trello.com/b/DneP4c8p/revenant) to track which are fixed and which still persist.
+
+<Details>  
+
+### Added
+  - Poisoner's Aid
+  - Requiem - 3BFTweaks - Extended Cut - Saints and Seducers Patch
+
+</Details>
+
+
+## 0.2.6
 
 ### Info
 
