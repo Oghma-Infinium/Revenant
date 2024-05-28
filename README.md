@@ -10,18 +10,11 @@
   <a href="https://loadorderlibrary.com/lists/revenant">Modlist</a> ]
 </p>
 
----
-
-**[Modlist Support](#contact)**
-
-> [!IMPORTANT]  
-> - **You must update Skyrim Special Edition to latest version on Steam to install this list. DO NOT DOWNGRADE YOUR GAME TO INSTALL THIS LIST!**
-> - **Note that this list is currently in *BETA*. Only play if you're willing to participate in bug reports and feedback!**
-> - **Modifying the list in any way voids official support for the modlist.**
-
+# ⚠ This modlist is no longer maintained and cannot be installed. ⚠
 
 # Contents
 
+- [⚠ This modlist is no longer maintained and cannot be installed. ⚠](#-this-modlist-is-no-longer-maintained-and-cannot-be-installed-)
 - [Contents](#contents)
   - [Introduction](#introduction)
     - [System Requirements](#system-requirements)
@@ -32,7 +25,7 @@
       - [Setting Shader Cache Size (NVIDIA Graphics Cards Only)](#setting-shader-cache-size-nvidia-graphics-cards-only)
     - [Wabbajack Installation](#wabbajack-installation)
       - [Installing Wabbajack](#installing-wabbajack)
-      - [Downloading and Installing Revenant](#downloading-and-installing-Revenant)
+      - [Downloading and Installing Revenant](#downloading-and-installing-revenant)
       - [Problematic Files](#problematic-files)
     - [Problems with Installation](#problems-with-installation)
   - [Post-Installation](#post-installation)

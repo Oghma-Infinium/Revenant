@@ -9,14 +9,12 @@
   <a href="https://loadorderlibrary.com/lists/Revenant">Modlist</a> ]
 </p>
 
----
-
-**Modlist Support: [Waking Dreams](https://discord.gg/wakingdreams)**
-
-**Known issues are documented in [Trello](https://trello.com/b/DneP4c8p/revenant).**
+# ⚠ This modlist is no longer maintained and cannot be installed. ⚠
 
 ## Contents
 
+- [⚠ This modlist is no longer maintained and cannot be installed. ⚠](#-this-modlist-is-no-longer-maintained-and-cannot-be-installed-)
+  - [Contents](#contents)
 - [FAQ](#faq)
   - [Q: My game is not opening or keeps crashing or freezing. What can I do?](#q-my-game-is-not-opening-or-keeps-crashing-or-freezing-what-can-i-do)
   - [Q: My performance is bad or I get stutters. What can I do?](#q-my-performance-is-bad-or-i-get-stutters-what-can-i-do)
@@ -31,6 +29,7 @@
   - [Q: How do I block with dual wield or spellsword?](#q-how-do-i-block-with-dual-wield-or-spellsword)
   - [Q: How can I access features of Elden Rim mod?](#q-how-can-i-access-features-of-elden-rim-mod)
   - [Q: My character's face suddenly became much darker, causing a neck seam. What do I do?](#q-my-characters-face-suddenly-became-much-darker-causing-a-neck-seam-what-do-i-do)
+- [Known Issues](#known-issues)
 
 # FAQ
 

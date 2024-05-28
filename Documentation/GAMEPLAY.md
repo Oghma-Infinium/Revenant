@@ -9,7 +9,7 @@
   <a href="https://loadorderlibrary.com/lists/Revenant">Modlist</a> ]
 </p>
 
----
+# ⚠ This modlist is no longer maintained and cannot be installed. ⚠
 
 ## Initial Setup
 
